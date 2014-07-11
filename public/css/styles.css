@@ -1,0 +1,99 @@
+.main{
+
+	width:1000px;
+	height:600px;
+	/*border-style: solid;
+    border-color: red;*/
+}
+
+.logo{
+	float:left;
+}
+
+.heading{
+	float:left;
+	position:relative;
+	left:140px;
+	/*border-color:red;
+	border-style: solid;*/
+	top:10px;
+
+}
+
+.heading1{
+	font-family: "Calibri";
+	font-size: 48px;
+	color: #0066CC ; 
+}
+
+.block1{
+	width:990px;
+	height:160px;
+	/*border-style: solid;
+    border-color: red;*/
+    float:left;
+    position:relative;
+    top:3px;
+    background-color: #CCCC99;
+
+}
+
+.tg  {float:left;position:relative;top:10px;border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:9px 20px;border-style:none;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:9px 20px;border-style:none;border-width:1px;overflow:hidden;word-break:normal;}
+
+.images{
+
+	width: 40px;
+}
+
+.welcome{
+	float:left;
+	position:relative;
+	top:25px;
+}
+
+.welcome1{
+	font-family: "Calibri";
+	font-size: 20px;
+	color: #0066CC ; 
+}
+
+.elements{
+	float:left;
+	position:relative;
+	top:30px;
+	/*border-style: solid;
+    border-color: red;*/
+    width:990px;
+    height:150px;
+
+}
+
+.img_elem{
+	width:150px;
+	margin-right: 140px;
+	margin-left: 20px;
+	position: relative;
+	left:45px;
+}
+
+.search{
+	width:350px;
+	height:40px;
+	border-style: solid;
+	border-color: gray;
+	float:left;
+	position:relative;
+	top:50px;
+	left:30%;
+}
+
+.search1{
+	font-size: 17px;
+	float:left;
+	position:relative;
+	top:5px;
+	left:10px;
+
+}
